@@ -10,6 +10,6 @@ Status: In development
 [MacroEditor v2] - A mouse automation applet!   
 
 
-   [MacroEditor v2]: <https://github.com/omgitskuei/MarkdownDev/blob/main/MEv2/MacroEditor_v2.md>
+   [MacroEditor v2]: <https://github.com/omgitskuei/MarkdownDev/blob/main/MEv2/ReadMe.md>
 
 
