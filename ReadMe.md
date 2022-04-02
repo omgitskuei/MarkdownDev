@@ -10,7 +10,6 @@ Status: In development
 [AngularJS] - HTML enhanced for web apps!   
 [MacroEditor v2] - A mouse automation applet!   
 
-[//]: 
 
    [dill]: <https://github.com/joemccann/dillinger>
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
