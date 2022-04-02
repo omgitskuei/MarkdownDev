@@ -7,5 +7,9 @@ Status: In development
 
 ### Table of Contents
 ---
-- [AngularJS] - HTML enhanced for web apps!   [AngularJS]: <http://angularjs.org>
-- [MacroEditor v2] - A mouse automation applet!   [MacroEditor v2]: <https://github.com/omgitskuei/MarkdownDev/blob/main/MacroEditor_v2.md>
+[AngularJS] - HTML enhanced for web apps!   
+[MacroEditor v2] - A mouse automation applet!   
+
+[//]: # omg
+[AngularJS]: <http://angularjs.org>
+[MacroEditor v2]: <https://github.com/omgitskuei/MarkdownDev/blob/main/MacroEditor_v2.md>
